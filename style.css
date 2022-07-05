@@ -20,7 +20,7 @@ h2 {
     color: orange;
 }
 
-section {
+.flexible-section {
 
     display: flex;
     margin-bottom: 50px;
@@ -32,15 +32,6 @@ section {
     width: 50%;
     margin-left: 170px;
 
-
-}
-
-.pic-align {
-
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 
 }
 
@@ -76,6 +67,7 @@ p {
 
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-position: left;
-    background-size: cover;
-    background-repeat: no-repeat;
+
+
+
 }
