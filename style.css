@@ -1,0 +1,50 @@
+body {
+
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    color: gray;
+    font-size: 50px;
+}
+
+.orange-font {
+
+    color: orange;
+}
+
+section {
+
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.half-width {
+
+    width: 50%;
+    margin-left: 50px;
+
+
+}
+
+p {
+
+    margin-bottom: 100px;
+}
+
+.link-order {
+
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 50px;
+    border-radius: 30px;
+
+}
+
+.margin-top {
+
+    margin-top: 200px;
+}
