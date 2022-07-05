@@ -72,3 +72,13 @@ p {
 
 
 }
+
+.about-banner img {
+
+    margin-left: 50px;
+    margin-top: 80px;
+
+    height: 87%;
+    width: 45%;
+
+}
