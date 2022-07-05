@@ -107,3 +107,33 @@ p {
     color: gray;
     font-size: 20px;
 }
+
+.recipe-item {
+
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 50px;
+
+
+}
+
+.recipe-item img {
+
+    margin-left: -70px;
+    margin-top: 60px;
+}
+
+.recipe-item h2 {
+
+    margin-left: -70px;
+
+}
+
+.recipe-item p {
+
+    margin-left: -70px;
+    margin-right: 120px;
+}
