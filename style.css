@@ -23,7 +23,7 @@ h2 {
 .flexible-section {
 
     display: flex;
-    margin-bottom: 50px;
+
     margin-bottom: 100px;
 }
 
@@ -52,9 +52,18 @@ p {
 
 }
 
+
+
 .margin-top {
 
     margin-top: 200px;
+
+}
+
+.margin-right {
+
+    margin-right: 250px;
+
 }
 
 .margin-top p {
@@ -75,7 +84,7 @@ p {
 
 .about-banner img {
 
-    margin-left: 50px;
+    margin-left: 200px;
     margin-top: 80px;
 
     height: 87%;
