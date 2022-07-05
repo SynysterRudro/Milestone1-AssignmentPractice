@@ -6,7 +6,13 @@ body {
 
 h1 {
     color: gray;
-    font-size: 50px;
+    font-size: 60px;
+}
+
+h2 {
+
+    font-size: 40px;
+    color: gray;
 }
 
 .orange-font {
@@ -47,4 +53,10 @@ p {
 .margin-top {
 
     margin-top: 200px;
+}
+
+.margin-top p {
+
+    color: gray;
+    font-size: large;
 }
