@@ -24,6 +24,7 @@ section {
 
     display: flex;
     margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -31,6 +32,15 @@ section {
     width: 50%;
     margin-left: 170px;
 
+
+}
+
+.pic-align {
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
@@ -44,6 +54,7 @@ p {
     text-decoration: none;
     color: white;
     font-weight: 700;
+    font-size: 20px;
     background-image: linear-gradient(orange, tomato);
     padding: 20px 50px;
     border-radius: 30px;
@@ -59,4 +70,12 @@ p {
 
     color: gray;
     font-size: large;
+}
+
+.about-banner {
+
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
