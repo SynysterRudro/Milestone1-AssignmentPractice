@@ -2,6 +2,7 @@ body {
 
     font-family: 'Roboto', sans-serif;
     margin: 0%;
+
 }
 
 h1 {
@@ -155,4 +156,30 @@ p {
     margin-top: 50px;
 
 
+}
+
+footer {
+
+    text-align: center;
+    background-color: rgb(3, 3, 43);
+
+
+    width: -100px;
+    height: 250px;
+
+
+
+
+}
+
+footer p {
+
+
+    color: gray;
+}
+
+footer h2 {
+
+    padding-top: 60px;
+    color: gray;
 }
